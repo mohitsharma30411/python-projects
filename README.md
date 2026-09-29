@@ -1,6 +1,6 @@
 # Python Practice Projects
 
-A collection of beginner-level Python projects created to practice and strengthen core Python programming concepts through small real-world applications.
+A collection of Python projects created to practice and strengthen core Python programming concepts through small real-world applications.
 
 ## Projects
 
